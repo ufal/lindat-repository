@@ -2,6 +2,8 @@
 
 # LINDAT/CLARIN digital library based on DSpace
 
+[![Join the chat at https://gitter.im/ufal/lindat-repository](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ufal/lindat-repository?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * developed at: [Institute of Formal and Applied Linguistics, Charles University in Prague](http://ufal.mff.cuni.cz/)
 * deployed at: [https://lindat.mff.cuni.cz/repository/xmlui/]
 * contact: [http://lindat.mff.cuni.cz/lindat/contact]
